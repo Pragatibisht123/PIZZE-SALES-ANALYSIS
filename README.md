@@ -4,5 +4,5 @@ DASHBOARD USING EXCEL
 ![image alt](https://github.com/Pragatibisht123/visualization_using_excel/blob/96e313dcab20719e6e887a242ad2be22bcfbd780/Excel_Dashboard_1.png)
 ![image alt](![image alt](https://github.com/Pragatibisht123/visualization_using_excel/blob/96e313dcab20719e6e887a242ad2be22bcfbd780/Excel_Dashboard_1.png))
 DASHBOARD USING POWER BI
-![image alt](![image alt](https://github.com/Pragatibisht123/visualization_using_excel/blob/96e313dcab20719e6e887a242ad2be22bcfbd780/Excel_Dashboard_1.png))
+![image alt](![image alt]((https://github.com/Pragatibisht123/visualization_using_excel/blob/ef10842e0e77c651d1e55e2039879af9bbaffbfc/Power-BI_Dashboard_1.png)))
 ![image alt](![image alt](https://github.com/Pragatibisht123/visualization_using_excel/blob/96e313dcab20719e6e887a242ad2be22bcfbd780/Excel_Dashboard_1.png))
